@@ -189,7 +189,7 @@
     <string name="topic_tutorial">Jangan skip tutorial plis :)</string>
     <string name="topic_donate">Ada tombol donasi di halaman utama</string>
     <string name="topic_nice">Kota yang bagus. Bisakah kamu bangun Jakarta?</string>
-    <string name="topic_trolls">Turun di mana bosque? </string>
+    <string name="topic_trolls">Yang bener aja... Rugi dong! </string>
     <string name="settings_reversedbuildtool">Gerakan terbalik dalam mode membangun</string>
     <string name="draft_karlsruhecastle00_title">Istana Karlsruhe</string>
     <string name="draft_karlsruhecastle00_text">Wisatawan akan menyukainya.</string>
@@ -313,7 +313,7 @@
     <string name="buildinginfo_upgradenotavail">Tidak tersedia</string>
     <string name="buildinginfo_upgrade">Tingkatkan</string>
     <string name="draft_pool00_title">Kolam renang</string>
-    <string name="draft_pool00_text">Ayo bosque berenang di kolam renang terbuka.</string>
+    <string name="draft_pool00_text">Panas panas begini, bagusnya kita nyebur dikolam.</string>
     <string name="draft_pool00_waterslide_title">Seluncuran air</string>
     <string name="draft_pool00_waterslide_text">Seluncuran air dan meja berpayung.</string>
     <string name="blank_text">Aku nggak tahu kenapa tulisannya blank_text di sini</string>
@@ -337,7 +337,7 @@
     <string name="notify_nowater">Ada bangunan yang tidak punya air!</string>
     <string name="draft_footballstadion00_roof_title">Atap</string>
     <string name="draft_footballstadion00_roof_text">Dengan atap, para pemain bisa bermain di segala cuaca!</string>
-    <string name="draft_footballstadion00_fanshop_title">Toko Fans</string>
+    <string name="draft_footballstadion00_fanshop_title">Kios</string>
     <string name="draft_footballstadion00_fanshop_text">Semua aksesoris klub dijual di sini.</string>
     <string name="notify_requirementbuilding">Kamu membuka %1$s.</string>
     <string name="notify_requirementupgrade">Selamat, kamu bisa membangun %1$s untuk bangunan %2$s!</string>
@@ -473,8 +473,8 @@
     <string name="disaster_illness_text">WHO ingin megetes virus barunya dan butuh kandidat</string>
     <string name="disaster_illness_cmdtext">Lepaskan virusnya!</string>
     <string name="disaster_flooding_title">Banjir</string>
-    <string name="disaster_flooding_text">Paretnya meluap lagi tuh.</string>
-    <string name="disaster_flooding_cmdtext">Sumbat Paretnya</string>
+    <string name="disaster_flooding_text">PEMERINTAH NGPAIN SIH!? Ucap rakyat yang sering buang sampah di selokan.</string>
+    <string name="disaster_flooding_cmdtext">Kasih hujan</string>
     <string name="buildinginfo_influences">Pengaruh</string>
     <string name="ci_loan_title">Pinjaman</string>
     <string name="ci_loan_donate">Donasikan</string>
@@ -486,8 +486,8 @@
     <string name="draft_crater1x1_text">Sisa meteor kecil yang jatuh. Kamu harus menghapusnya.</string>
     <string name="settings_disaster_nuke">Ledakan Nuklir</string>
     <string name="disaster_nuke_title">Ledakan Nuklir</string>
-    <string name="disaster_nuke_text">Jadi ingat Chernobyl....</string>
-    <string name="disaster_nuke_cmdtext">Kirim perintah</string>
+    <string name="disaster_nuke_text">Bro lu tau ini ga?</string>
+    <string name="disaster_nuke_cmdtext">Oppenheimer!!</string>
     <string name="budget_loans">Pinjaman</string>
     <string name="ci_loan_loanlist">Pinjaman berjalan(seluruhnya %1$s dalam %2$,d/%3$,d pinjaman):</string>
     <string name="ci_loan_remaining_runtime">Waktu yang tersisa: %2$,d bulan, %1$,d hari</string>
@@ -496,7 +496,7 @@
     <string name="topic_support_ads">Anda dapat mendukung kami dengan melihat iklan :)</string>
     <string name="settings_disaster_tornado">Angin topan</string>
     <string name="disaster_tornado_title">Angin topan</string>
-    <string name="disaster_tornado_text">Angin topan adalah bencana berbahaya yang sering terjadi di Indonesia!</string>
+    <string name="disaster_tornado_text">Lihat ada puting beliung! awas seng jatoh!</string>
     <string name="disaster_tornado_cmdtext">Tiup kotamu!</string>
     <string name="buildinginfo_untouchable">Jangan ganti bangunan</string>
     <string name="draft_zoneresidential_lvl2_title">Perumahan padat</string>
@@ -604,9 +604,9 @@
     <string name="draft_filterplant00_text">Menyaring air.</string>
     <string name="topic_fun">Selamat bersenang-senang! :)</string>
     <string name="topic_android">Hanya ada di Android</string>
-    <string name="topic_tryharder">Berusahalah lebih keras</string>
+    <string name="topic_tryharder">Ga usah sok kompe, ini game offline</string>
     <string name="topic_nature">Selamatkan alam</string>
-    <string name="topic_time">Tenang</string>
+    <string name="topic_time">Santuy</string>
     <string name="topic_big">Buat sesuatu yang besar</string>
     <string name="buildinginfo_waterwaste">Air limbah: %1$.1f%%</string>
     <string name="ci_water_waste">Air limbah: %1$.1f%%</string>
@@ -676,7 +676,7 @@
     <string name="draft_biergarten00_text">Tempat yang nyaman untuk istirahat.</string>
     <string name="notify_noreszone">Orang-orang ingin tinggal di kotamu. Buat zona perumahan.</string>
     <string name="notify_nocomzone">Buat zona komersial supaya pebisnis bisa membangun di kotamu.</string>
-    <string name="notify_noindzone">Industri-industri bisa membangun di kotamu, tetapi kamu harus membuat zona industri dulu untuk mereka.</string>
+    <string name="notify_noindzone">Industri-industri bisa dibangun di kotamu, tetapi kamu harus membuat zona industri dulu untuk mereka.</string>
     <string name="createcity_sizebigbigbig">Sungguh Besar</string>
     <string name="locale">en</string>
     <string name="draft_police02_title">Markas Besar Brimob</string>
@@ -690,11 +690,11 @@
     <string name="influence_management_title">Manajemen</string>
     <string name="influence_management_text">Mengontrol kotamu.</string>
     <string name="happiness_management">Manajemen</string>
-    <string name="dialog_oldmap_title">Kota kuno</string>
+    <string name="dialog_oldmap_title">Kota lama</string>
     <string name="dialog_oldmap_text">TheoTown telah banyak berubah sejak kota ini didirikan. Maka, mungkin kota ini tidak bekerja seperti yang seharusnya. Plis jangan ngambek (◕‿◕✿)</string>
     <string name="dialog_oldmap_cmdproceed">Lanjutkan</string>
     <string name="dialog_oldmap_cmdcancel">Kembali</string>
-    <string name="notify_bad_health">Kesehatan tidak memadai. Kamu harus meningkatkan nilai lingkungan atau membangun pos medis. Pandemi dapat terjadi dan mulai jika tidak terbangun.</string>
+    <string name="notify_bad_health">Kesehatan tidak memadai. Kamu harus memperbaiki lingkungan atau membangun fasilitas kesehatan. Pandemi dapat terjadi kapan saja dan tidak ada jaminan BPJS disini.</string>
     <string name="dialog_rename_cmdok">Namakan ulang</string>
     <string name="dialog_rename_cmdcancel">Batal</string>
     <string name="dialog_renamecity_title">Ganti nama kota</string>
@@ -731,7 +731,7 @@
     <string name="roadinfo_title">Jalan</string>
     <string name="roadinfo_trafficlights_on">Lampu lalu lintas hidup</string>
     <string name="roadinfo_trafficlights_off">Lampu lalu lintas mati</string>
-    <string name="notify_crime">Kami mendapati beberapa tindakan kejahatan di sini. Kamu harus membangun lebih banyak kantor polisi atau memperbaiki tingkat kebahagiaan,dan juga kirim polisi kesini.</string>
+    <string name="notify_crime">Kami mendapati beberapa tindakan kejahatan di sini. Kamu harus membangun lebih banyak kantor polisi atau memperbaiki tingkat kebahagiaan, banyak begal.</string>
     <string name="tutorial_buildbridge_a">Mungkin kita harus memperlancar lalu lintas dengan membangun jalan utama. Pilih jalan aspal.</string>
     <string name="tutorial_buildbridge_b">Ketuk titik awal dan titik akhir rencana pembangunan jalan. Perhatikan bagaimana jembatan akan dibangun otomatis melalui sungai.</string>
     <string name="tutorial_buildbridge_c">Jadi, kita sudah selesai dengan pembangunan.</string>
@@ -779,8 +779,8 @@
     <string name="about_thanks">Terima kasih untuk</string>
     <string name="about_community">Dan bagian komunitas lainnya</string>
     <string name="dialog_tosandbox_title">Sandbox</string>
-    <string name="dialog_tosandbox_text">Ubah kota menjadi mode pengembang?\n\nTindakan ini tidak bisa dibatalkan kembali!</string>
-    <string name="dialog_tosandbox_cmdconvert">Bak pasir</string>
+    <string name="dialog_tosandbox_text">Ubah kota menjadi mode sandbox?\n\nTindakan ini tidak bisa dibatalkan kembali!</string>
+    <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
     <string name="requirement_rank">Setidaknya %1$s (%2$,d)</string>
     <string name="ca_wastedisposal_text">Pembuangan sampah: %1$,d/%2$,d</string>
     <string name="ca_bodydisposal_text">Pemakaman: %1$,d/%2$,d</string>
@@ -805,7 +805,7 @@
     <string name="rank_title">Tingkat baru kota</string>
     <string name="ci_rank_title">Tingkat</string>
     <string name="draft_firedepartment02_heli00_title">Helipad</string>
-    <string name="draft_firedepartment02_heli00_text">Helikopter dapat mendarat dan lepas landas di sini.\n\nIncreses the range of the fire department.</string>
+    <string name="draft_firedepartment02_heli00_text">Helikopter dapat mendarat dan lepas landas di sini.\n\ meningkatkan jangkauan stasiun.</string>
     <string name="settings_reset_title">Reset pengaturan</string>
     <string name="settings_reset_text">Semua pengaturan akan diatur ulang. Apakah kamu yakin?</string>
     <string name="settings_leftsidetraffic">Lalu lintas kiri</string>
@@ -833,13 +833,13 @@
     <string name="disaster_ufo_cmdtext">Bidik target</string>
     <string name="topic_theons">Kita mempunyai mata uang baru: Theon ₮</string>
     <string name="topic_wip">Sedang ada pengerjaan. Jangan melewati batas.</string>
-    <string name="topic_belong">Kotamu milik kami &gt;:D</string>
-    <string name="topic_love">Kamu perlu cinta</string>
+    <string name="topic_belong">Kotamu milik kita semua &gt;:D</string>
+    <string name="topic_love">Bucin itu tidak baik</string>
     <string name="topic_build">Aku akan membangun kotaku sendiri dengan gedung pencakar langit dan taman-taman.</string>
     <string name="topic_news">Kabar baik!</string>
     <string name="topic_welcome">Selamat datang kembali :)</string>
     <string name="topic_spoon">Ga ada sendok, makan pake tangan</string>
-    <string name="topic_relax">Tenang, ini cuma gim</string>
+    <string name="topic_relax">Cuma game kok :)</string>
     <string name="topic_cats">Kocheng oren imutttt</string>
     <string name="topic_force">May the Force be with you</string>
     <string name="topic_plugins">Kita punya plugin sekarang</string>
@@ -1106,7 +1106,7 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
     <string name="settings_sound_weather">Cuaca</string>
 
     <string name="settings_energysavingplus">Mode penghematan daya PLUS</string>
-    <string name="topic_designed">Didesain manusia</string>
+    <string name="topic_designed">Made by manusia</string>
     <string name="draft_weather_machine00_fog00_title">Mesin Kabut</string>
     <string name="draft_weather_machine00_fog00_text">Mesin kabut besar yang bisa menghasilkan kabut untuk menyelimuti seluruh kota.</string>
     <string name="dialog_cancelupgrade">Batalkan peningkatan</string>
@@ -1121,7 +1121,7 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
     <string name="draft_tool_car_follower00_title">Ikuti mobil</string>
     <string name="draft_tool_car_follower00_text">Mengikuti mobil secara acak.</string>
     <string name="draft_mltry_bunker00_title">Bunker</string>
-    <string name="draft_mltry_bunker00_text">Penduduk merasa lebih aman dekat bunker. Setidaknya bangunan ini tahan api.</string>
+    <string name="draft_mltry_bunker00_text">Penduduk merasa lebih aman dekat bunker. Kebal segalanya.</string>
     <string name="draft_zoneairport_title">Lapangan udara</string>
     <string name="draft_zoneairport_text">Bangun bandara di dalam zona lapangan udara.</string>
     <string name="draft_decoletters00_title">Huruf</string>
@@ -1377,11 +1377,11 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
     <string name="dialog_externalstorage_cancel">Batal</string>
     <string name="dialog_externalstorage_retry">Coba lagi</string>
     <string name="notify_disaster_earthquake">Waduh, gempa!</string>
-    <string name="notify_disaster_flooding">Kota terendam air!</string>
+    <string name="notify_disaster_flooding">Selokan tersumbat, banjir coeg!</string>
     <string name="notify_disaster_meteorite">Batu berjatuhan dari langit!</string>
     <string name="notify_disaster_nuke">Kita punya ledakan nuklir di sini!</string>
     <string name="notify_disaster_tornado">Sangat berangin di sini!</string>
-    <string name="notify_disaster_ufo">Alien menyerang!</string>
+    <string name="notify_disaster_ufo">Alien menyerang!, kukira alien tidak nyata</string>
     <string name="settings_download_static_files">Unduh file statik</string>
     <string name="pluginerror_visitforum">Laporkan di forum</string>
     <string name="dialog_gameplay_title">Unggahan permainan</string>
@@ -1428,7 +1428,7 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
     <string name="shop_open_features">Belanjakan berlian</string>
     <string name="draft_feature_shortbuildingtime00_title">Waktu pembangunan singkat</string>
     <string name="draft_feature_shortbuildingtime00_text">Pengurangan waktu pembangunan drastis untuk semua bangunan.</string>
-    <string name="dialog_shortbuildtime_title">Dorongan waktu pembangunan</string>
+    <string name="dialog_shortbuildtime_title">Mempercepat waktu pembangunan</string>
     <string name="dialog_shortbuildtime_text">Tonton video singkat untuk mempercepat waktu pembangunan sebanyak %s.</string>
 
     <string name="settings_saveonappswitch">Simpan saat mengganti aplikasi</string>
